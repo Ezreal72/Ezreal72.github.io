@@ -13,22 +13,11 @@ header{
 }
 
 .logo a{
-    color: #fff;
     padding: 0px 20px;
-    border: 1px solid #fff;
     position: absolute;
     top: 10px;
     left: 10px;
-    text-transform: uppercase;
-    text-decoration: none;
     font-weight: 900;
-    text-shadow: rgba(0, 0, 0, 0.7);
-}
-
-.logo span{
-    color: rgb(238, 56, 11);
-    font-weight: bold;
-    font-size: 2rem;
 }
 
 ul{
@@ -98,4 +87,4 @@ ul li.active a{
 .btn:hover{
     background: #fff;
     color:#000;
-}
+}s
