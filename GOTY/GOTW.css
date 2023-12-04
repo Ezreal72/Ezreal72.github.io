@@ -48,8 +48,8 @@ ul li.active a{
 }
 
 .decalage {
-    position: relative;
-    left: 400px;
+    position: absolute;
+    left: 25%;
     top: 0px;
 }
 
