@@ -48,7 +48,7 @@ ul li.active a{
 }
 
 .decalage {
-    position: absolute;
+    position: relative;
     left: 200px;
     top: 0px;
 }
