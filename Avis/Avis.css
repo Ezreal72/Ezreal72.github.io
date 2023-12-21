@@ -62,3 +62,10 @@ header{
 body{
     background-color: #cfced0;
 }
+
+.rectangle {
+    height: 100000px;
+    width: 1000px;
+    background-color: #fff;
+    left: 400px;
+  }
