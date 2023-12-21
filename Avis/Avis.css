@@ -60,7 +60,7 @@ header{
 }
 
 body {
-    background-image: url(Avis/Images/font.png);
+    background-image: url('Avis/Images/font.png');
     height: 100vh;
     background-size: cover;
     background-position: center; 
