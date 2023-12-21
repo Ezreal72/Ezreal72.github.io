@@ -64,8 +64,8 @@ body{
 }
 
 .rectangle {
-    height: 100000px;
-    width: 1000px;
+    height: 100px;
+    width: 100px;
     background-color: #fff;
     left: 400px;
   }
