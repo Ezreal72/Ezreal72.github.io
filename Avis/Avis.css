@@ -59,13 +59,9 @@ header{
     background-color:#000;
 }
 
-body{
-    background-color: #cfced0;
+body {
+    background-image: url(Avis/Images/font.png);
 }
 
-.rectangle {
-    height: 100px;
-    width: 100px;
-    background-color: #fff;
-    left: 20%;
-  }
+
+
