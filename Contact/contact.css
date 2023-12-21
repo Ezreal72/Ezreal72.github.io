@@ -60,7 +60,8 @@ header{
 }
 
 body {
-    background-image: url('Avis/Images/font.png');
+    background-image: url('https://ezreal72.github.io/Avis/Images/font.png');
+    background-color: gray;
     height: 100vh;
     background-size: cover;
     background-position: center; 
