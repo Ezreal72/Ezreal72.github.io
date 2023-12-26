@@ -58,3 +58,15 @@ header{
     width: 100%;
     background-color:#000;
 }
+
+body {
+    background-image: url('https://ezreal72.github.io/Avis/Images/font.png');
+    background-color: gray;
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+}
+
+.dispo{
+    text-align: center;
+}
