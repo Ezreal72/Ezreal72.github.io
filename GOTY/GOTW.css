@@ -56,17 +56,28 @@ ul li.active a{
 header{
     padding: 30px;
     width: 100%;
-    background-color:#000;
+    background-color:#345467;
+}
+
+
+h1 {
+    font-size:4rem;
+    
+}
+
+h2 {
+    font-size: 5.7rem;
+}
+
+a {
+    color:#ffffff;
+    text-decoration: none;
 }
 
 body {
-    background-image: url('https://ezreal72.github.io/Avis/Images/font.png');
-    background-color: gray;
-    height: 100vh;
-    background-size: cover;
-    background-position: center; 
+    font-family: 'Poppins', sans-serif;
 }
 
-.dispo{
-    text-align: center;
+p {
+    font-size: 1.5rem;
 }
