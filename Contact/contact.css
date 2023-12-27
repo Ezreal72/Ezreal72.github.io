@@ -106,35 +106,7 @@ p {
 }
 
 
-/* HEADER */
 
-.main-head {
-    background: #253C4A;
-    color: #ffffff;
-}
-
-nav {
-    min-height: 10vh;
-    display: flex;
-    align-items: center;
-    width: 95%;
-    margin: auto;
-    flex-wrap: wrap;
-}
-
-nav ul {
-    display: flex;
-    flex: 1 1 50rem;
-    justify-content: space-around;
-    align-items: center;
-    list-style: none;
-}
-
-#logo {
-    flex: 2 1 40rem;
-    font-family: 'Fredoka One', cursive;
-    font-weight: normal;
-}
 
 /* Section Contact */
 
