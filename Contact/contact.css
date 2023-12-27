@@ -1,3 +1,5 @@
+
+/* GLOBAL CSS */
 *{
     padding: 0;
     margin: 0;
@@ -12,6 +14,11 @@
     width: 203px;
     height: 70px;
     border-radius: 30px;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 ul{
@@ -59,18 +66,6 @@ header{
     background-color:#000;
 }
 
-/* GLOBAL CSS */
-
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    font-size: 62.5%;
-    scroll-behavior: smooth;
-}
 
 h1 {
     font-size:4rem;
@@ -79,17 +74,6 @@ h1 {
 
 h2 {
     font-size: 5.7rem;
-}
-
-
-
-li {
-    font-size: 2rem;
-    color: #ccc;
-}
-
-li:hover {
-    color: white;
 }
 
 a {
@@ -104,8 +88,6 @@ body {
 p {
     font-size: 1.5rem;
 }
-
-
 
 
 /* Section Contact */
