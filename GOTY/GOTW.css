@@ -1,3 +1,5 @@
+/* GLOBAL CSS */
+
 *{
     padding: 0;
     margin: 0;
@@ -80,4 +82,12 @@ body {
 
 p {
     font-size: 1.5rem;
+}
+
+section#contact {
+    background: linear-gradient( rgb(0, 0, 0, 0.5),transparent), url('/images/network-6511448_1920.jpg');
+    padding: 100px 15px;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
 }
