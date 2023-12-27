@@ -37,7 +37,7 @@ ul li a{
     margin: 5px;
     font-weight: 500;
     transition: 0.6s;
-    font-size: large;
+    font-size: 20px;
 }
 
 ul li a:hover{
@@ -65,16 +65,6 @@ header{
     padding: 30px;
     width: 100%;
     background-color:#345467;
-}
-
-
-h1 {
-    font-size:4rem;
-    
-}
-
-h2 {
-    font-size: 5.7rem;
 }
 
 a {
