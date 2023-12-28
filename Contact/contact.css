@@ -1,4 +1,5 @@
 /* GLOBAL CSS */
+
 *{
     padding: 0;
     margin: 0;
@@ -13,12 +14,6 @@
     width: 203px;
     height: 70px;
     border-radius: 30px;
-    left: 30px;
-}
-
-html {
-    font-size: 62.5%;
-    scroll-behavior: smooth;
 }
 
 ul{
@@ -37,7 +32,6 @@ ul li a{
     margin: 5px;
     font-weight: 500;
     transition: 0.6s;
-    font-size: 17px;
 }
 
 ul li a:hover{
@@ -65,6 +59,16 @@ header{
     padding: 30px;
     width: 100%;
     background-color:#345467;
+}
+
+
+h1 {
+    font-size:4rem;
+    
+}
+
+h2 {
+    font-size: 5.7rem;
 }
 
 a {
@@ -212,6 +216,7 @@ section#contact .container form button:hover {
         font-size: 3em ;
     }
 }
+
 /* Footer */
 footer {
     margin: 0;
