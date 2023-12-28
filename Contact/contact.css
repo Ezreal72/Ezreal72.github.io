@@ -225,6 +225,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    font-size: 10px;
 }
 
 footer h3 {
