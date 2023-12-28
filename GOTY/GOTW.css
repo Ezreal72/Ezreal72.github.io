@@ -91,3 +91,28 @@ section#goty {
     background-position: center;
     background-color: white;
 }
+
+/* Footer */
+footer {
+    margin: 0;
+    padding: 30px;
+    background-color:#000000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+footer h3 {
+    color: #345467;
+    text-align: center;
+}
+
+footer p{
+    cursor: pointer;
+    color: #ccc;
+    text-align: center;
+}
+
+footer p:hover {
+    color: white;
+}
