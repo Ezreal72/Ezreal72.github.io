@@ -220,7 +220,7 @@ section#contact .container form button:hover {
 /* Footer */
 footer {
     margin: 0;
-    padding: 25px;
+    padding: 20px;
     background-color:#000000;
     display: flex;
     flex-wrap: wrap;
