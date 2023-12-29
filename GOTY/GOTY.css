@@ -91,7 +91,8 @@ section#boutton {
     background-size: cover;
     background-position: center;
     background-color: white;
-    
+}    
+
 button {
     padding: 15px 25px;
     border: unset;
@@ -153,6 +154,6 @@ footer p{
     font-size: 15px;
 }
 
-footer p:hover{
+footer p:hover {
     color: white;
 }
