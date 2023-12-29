@@ -83,7 +83,15 @@ body {
 p {
     font-size: 1.5rem;
 }
+/* Section bouton */
 
+section#boutton {
+    background: linear-gradient( rgb(0, 0, 0, 0.5),transparent);
+    padding: 100px 15px;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+}
 .bouton{
     display: block;
     background-color: #719fee;
