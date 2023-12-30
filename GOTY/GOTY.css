@@ -142,6 +142,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    top: 1000px;
 }
 
 footer h3 {
