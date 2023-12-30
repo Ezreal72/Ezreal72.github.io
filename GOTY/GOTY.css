@@ -99,7 +99,7 @@ button {
     border-radius: 15px;
     color: #212121;
     left: 15%;
-    top: -15%;
+    top: 50px;
     z-index: 1;
     background: #e8e8e8;
     position: relative;
