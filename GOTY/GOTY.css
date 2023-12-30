@@ -134,7 +134,7 @@ button:hover::before {
     width: 100%;
 }
 
-/* Footer */
+/* Footer
 footer {
     margin: 0;
     padding: 20px;
@@ -142,7 +142,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    top: 1000px;
+
 }
 
 footer h3 {
@@ -160,3 +160,4 @@ footer p{
 footer p:hover {
     color: white;
 }
+ */
