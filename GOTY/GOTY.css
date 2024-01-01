@@ -139,7 +139,7 @@ img {
     width : 150px;
     height : 150px;
     left: 20px;
-    position: absolute;
+    position: relative;
     }
 
 /* Footer */
