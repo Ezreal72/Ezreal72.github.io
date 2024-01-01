@@ -98,7 +98,7 @@ button {
     border: unset;
     border-radius: 15px;
     color: #212121;
-    left: 15%;
+    left: 10%;
     top: 50px;
     z-index: 1;
     background: #e8e8e8;
@@ -109,6 +109,7 @@ button {
     box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
     transition: all 250ms;
     overflow: hidden;
+    height: 100px;
 }
        
 button::before {
