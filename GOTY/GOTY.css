@@ -110,6 +110,7 @@ button {
     transition: all 250ms;
     overflow: hidden;
     height: 200px;
+    width: 500px;
 }
        
 button::before {
@@ -137,7 +138,6 @@ button:hover::before {
 
 button p{
     font-size: 15px;
-
 }
 
 img {
