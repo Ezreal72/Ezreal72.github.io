@@ -237,9 +237,9 @@ button {
     transition: filter 250ms;
     user-select: none;
     touch-action: manipulation;
-}
+   }
    
-.shadow {
+   .shadow {
     position: absolute;
     top: 0;
     left: 0;
@@ -252,9 +252,9 @@ button {
     transition: transform
        600ms
        cubic-bezier(.3, .7, .4, 1);
-}
+   }
    
-.edge {
+   .edge {
     position: absolute;
     top: 0;
     left: 0;
@@ -268,9 +268,9 @@ button {
        hsl(340deg 100% 32%) 92%,
        hsl(340deg 100% 16%) 100%
      );
-}
+   }
    
-.front {
+   .front {
     display: block;
     position: relative;
     padding: 12px 27px;
@@ -283,39 +283,39 @@ button {
     transition: transform
        600ms
        cubic-bezier(.3, .7, .4, 1);
-}
+   }
    
-button:hover {
+   button:hover {
     filter: brightness(110%);
-}
+   }
    
-button:hover .front {
+   button:hover .front {
     transform: translateY(-6px);
     transition: transform
        250ms
        cubic-bezier(.3, .7, .4, 1.5);
-}
+   }
    
-button:active .front {
+   button:active .front {
     transform: translateY(-2px);
     transition: transform 34ms;
-}
+   }
    
-button:hover .shadow {
+   button:hover .shadow {
     transform: translateY(4px);
     transition: transform
        250ms
        cubic-bezier(.3, .7, .4, 1.5);
-}
+   }
    
-button:active .shadow {
+   button:active .shadow {
     transform: translateY(1px);
     transition: transform 34ms;
-}
+   }
    
-button:focus:not(:focus-visible) {
+   button:focus:not(:focus-visible) {
     outline: none;
-}
+   }
 
 /* Footer */
 footer {
