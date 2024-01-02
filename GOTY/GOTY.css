@@ -142,6 +142,7 @@ button p{
     top: 15px;
     position: absolute;
     left: 200px;
+    line-height: 3px;
 }
 
 img {
