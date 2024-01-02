@@ -135,6 +135,11 @@ button:hover::before {
     width: 100%;
 }
 
+button p{
+    font-size: 15px;
+
+}
+
 img {
     width : 150px;
     height : 150px;
@@ -142,6 +147,8 @@ img {
     top: 25px;
     position: absolute;
     }
+
+
 
 /* Footer */
 footer {
