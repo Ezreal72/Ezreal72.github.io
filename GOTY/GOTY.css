@@ -153,6 +153,12 @@ img {
     position: absolute;
     }
 
+.textdebut{
+    font-size: 25px;
+    left: 10%;
+    text-align: center;
+    color: black;
+}
 
 
 /* Footer */
