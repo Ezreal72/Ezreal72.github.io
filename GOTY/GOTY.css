@@ -139,6 +139,7 @@ button:hover::before {
 button p{
     font-size: 15px;
     text-align: left;
+    top: -30px;
     position: absolute;
     left: 200px;
 }
