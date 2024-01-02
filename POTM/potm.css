@@ -217,6 +217,20 @@ section#contact .container form button:hover {
     }
 }
 
+.textdebut{
+    font-size: 20px;
+    left: 10%;
+    top: 5%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.rouge{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
 /* Footer */
 footer {
     margin: 0;
