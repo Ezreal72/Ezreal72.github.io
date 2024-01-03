@@ -154,14 +154,23 @@ img {
     }
 
 .textdebut{
-    font-size: 20px;
+    font-size: 40px;
     left: 10%;
     top: 5%;
     text-align: center;
     color: black;
     font-weight: bold;
+    font-family: 'robotoregular';
 }
 
+@font-face {
+    font-family: 'robotoregular';
+    src: url('https://ezreal72.github.io/POTM/Police/roboto-regular-webfont.woff2') format('woff2'),
+         url('https://ezreal72.github.io/POTM/Police/roboto-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /* Footer */
 footer {
