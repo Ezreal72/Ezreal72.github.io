@@ -318,10 +318,12 @@ button {
    }
 
 .img{
-    position: absolute;
     display: none;
-    width: 48px;
-    height: 27px;
+}
+
+img{
+    width: 384px;
+    height: 216px;
 }
 
 /* Footer */
