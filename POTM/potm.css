@@ -224,6 +224,7 @@ section#contact .container form button:hover {
     text-align: center;
     color: black;
     font-weight: bold;
+    font-family: "Roboto-regular", Roboto;
 }
 
 /*Button*/
@@ -337,6 +338,7 @@ video{
     text-align: center;
     color: black;
     font-weight: bold;
+    font-family: "Roboto-regular", Roboto;
 }
 
 /* Footer */
