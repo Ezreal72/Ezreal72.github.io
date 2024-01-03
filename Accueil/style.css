@@ -59,6 +59,7 @@ ul li.active a{
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: bold;
+    font-family: "Roboto-regular", Roboto;
 }
 
 .titre h1{
