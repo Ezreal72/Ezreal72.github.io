@@ -319,9 +319,6 @@ button {
 
 .img{
     display: none;
-    width: 768px;
-    height: 432px;
-    display: none;
 }
 
 img{
@@ -329,7 +326,10 @@ img{
     height: 432px;
 }
 
-
+video{
+    width: 768px;
+    height: 432px;
+}
 
 /* Footer */
 footer {
