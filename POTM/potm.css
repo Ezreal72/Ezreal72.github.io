@@ -329,6 +329,7 @@ img{
 .video{
     width: 768px;
     height: 432px;
+    display: none;
 }
 
 /* Footer */
