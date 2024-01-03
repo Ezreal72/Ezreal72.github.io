@@ -70,8 +70,8 @@ ul li.active a{
 
 @font-face {
     font-family: 'heavitasregular';
-    src: url('https://ezreal72.github.io/POTM/Police/heavitas-webfont.woff2') format('woff2'),
-         url('https://ezreal72.github.io/POTM/Police/heavitas-webfont.woff') format('woff');
+    src: url('https://ezreal72.github.io/POTM/Police/heavitas-webfont[1].woff2') format('woff2'),
+         url('https://ezreal72.github.io/POTM/Police/heavitas-webfont[1].woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
