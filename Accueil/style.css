@@ -65,7 +65,16 @@ ul li.active a{
     color:#fff;
     font-size: 50px;
     font-weight: bold;
-    font-family: Heavitas;
+    font-family: 'heavitasregular';
+}
+
+@font-face {
+    font-family: 'heavitasregular';
+    src: url('https://ezreal72.github.io/POTM/Police/heavitas-webfont.woff2') format('woff2'),
+         url('https://ezreal72.github.io/POTM/Police/heavitas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 .bouton{
