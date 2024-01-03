@@ -218,13 +218,22 @@ section#contact .container form button:hover {
 }
 
 .textdebut{
-    font-size: 20px;
+    font-size: 30px;
     left: 10%;
     top: 5%;
     text-align: center;
     color: black;
     font-weight: bold;
-    font-family: "Roboto-regular", Roboto;
+    font-family: 'robotoregular';
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('https://ezreal72.github.io/POTM/Police/roboto-regular-webfont[1].woff2') format('woff2'),
+         url('https://ezreal72.github.io/POTM/Police/roboto-regular-webfont[1].woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 /*Button*/
@@ -338,7 +347,7 @@ video{
     text-align: center;
     color: black;
     font-weight: bold;
-    font-family: "Roboto-regular", Roboto;
+    font-family: 'robotoregular';
 }
 
 /* Footer */
