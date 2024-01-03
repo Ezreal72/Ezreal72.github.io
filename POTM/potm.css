@@ -331,6 +331,13 @@ video{
     height: 432px;
 }
 
+.textafficher{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
 /* Footer */
 footer {
     margin: 0;
