@@ -324,11 +324,13 @@ button {
 img{
     width: 768px;
     height: 432px;
+    left: 50px;
 }
 
 video{
     width: 768px;
     height: 432px;
+    left: 15px;
 }
 
 .textafficher{
