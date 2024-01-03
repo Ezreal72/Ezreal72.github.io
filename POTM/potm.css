@@ -317,6 +317,10 @@ button {
     outline: none;
    }
 
+.img{
+    display: none;
+}
+
 /* Footer */
 footer {
     margin: 0;
