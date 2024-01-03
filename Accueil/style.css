@@ -58,6 +58,7 @@ ul li.active a{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-weight: bold;
 }
 
 .titre h1{
