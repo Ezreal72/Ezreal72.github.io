@@ -18,6 +18,7 @@ header{
     width: 203px;
     height: 70px;
     border-radius: 30px;
+    display: flex;
 }
 
 ul{
