@@ -120,7 +120,7 @@ button {
     transition: all 250ms;
     overflow: hidden;
     height: 200px;
-    width: 500px;
+    width: 800px;
 }
        
 button::before {
@@ -147,12 +147,13 @@ button:hover::before {
 }
 
 button p{
-    font-size: 15px;
+    font-size: 22px;
     text-align: left;
     top: 15px;
     position: absolute;
     left: 200px;
     line-height: 45px;
+    font-family: 'robotoregular';
 }
 
 img {
