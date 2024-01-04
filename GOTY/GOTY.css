@@ -120,7 +120,7 @@ button {
     transition: all 250ms;
     overflow: hidden;
     height: 200px;
-    width: 800px;
+    width: 600px;
 }
        
 button::before {
@@ -147,7 +147,7 @@ button:hover::before {
 }
 
 button p{
-    font-size: 22px;
+    font-size: 17px;
     text-align: left;
     top: 15px;
     position: absolute;
