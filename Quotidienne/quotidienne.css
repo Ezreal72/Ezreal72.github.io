@@ -247,13 +247,12 @@ section#contact .container form textarea {
 }
 
 .imagedeux{
-    width : 240px;
-    height : 248px;
-    left: 20px;
-    top: 25px;
-    position: absolute;
+    width: 200px;
+    height: 207px;
+    left: -200px;
+    border-radius: 15px;
+    position: relative;
     }
-
 
 .deuxd{
     font-family: 'robotoregular'; 
