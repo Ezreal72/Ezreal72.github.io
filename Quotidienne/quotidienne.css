@@ -119,20 +119,6 @@ section#contact .container {
     box-shadow: rgb(214 214 214) 0px 10px 50px -10px ;
 }
 
-section#contact .container .title {
-    text-align: center;
-    margin-bottom: 60px;
-}
-section#contact .container .title h4 {
-    font-size: 1.6em ;
-    margin-bottom: 10px;
-    font-family: 'Unigeo64-Regular-trial' ;
-}
-
-section#contact .container .title h3 {
-    font-size: 4em ;
-    margin-bottom: 20px;
-}
 
 section#contact .container form {
     display: flex;
@@ -169,27 +155,6 @@ section#contact .container form textarea {
     margin-bottom: 60px;
 }
 
-section#contact .container form button {
-    width: 192px;
-    height: 50px;
-    border-radius: 8px;
-    border: none;
-    background-color: #345467;
-    color: white;
-    font-weight: bold;
-    font-size: 1.3em;
-    cursor: pointer;
-    margin-top: 30px;
-    outline: none;
-    margin: 0 auto;
-    transition: 0.2s; 
-    font-family: 'Poppins', sans-serif;
-}
-
-section#contact .container form button:hover {
-    transform: translateY(-5px);
-    box-shadow: rgb(214 214 214) 0px 10px 40px -5px ;
-}
 
 @media screen and (max-width: 885px) {
 
@@ -246,119 +211,37 @@ section#contact .container form button:hover {
 
 }
 
-/*Button*/
-button {
-    position: relative;
-    border: none;
-    background: transparent;
-    padding: 0;
-    cursor: pointer;
-    outline-offset: 4px;
-    transition: filter 250ms;
-    user-select: none;
-    touch-action: manipulation;
-   }
-   
-   .shadow {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 12px;
-    background: hsl(0deg 0% 0% / 0.25);
-    will-change: transform;
-    transform: translateY(2px);
-    transition: transform
-       600ms
-       cubic-bezier(.3, .7, .4, 1);
-   }
-   
-   .edge {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 12px;
-    background: linear-gradient(
-       to left,
-       hsl(340deg 100% 16%) 0%,
-       hsl(340deg 100% 32%) 8%,
-       hsl(340deg 100% 32%) 92%,
-       hsl(340deg 100% 16%) 100%
-     );
-   }
-   
-   .front {
-    display: block;
-    position: relative;
-    padding: 12px 27px;
-    border-radius: 12px;
-    font-size: 1.1rem;
-    color: white;
-    background: hsl(345deg 100% 47%);
-    will-change: transform;
-    transform: translateY(-4px);
-    transition: transform
-       600ms
-       cubic-bezier(.3, .7, .4, 1);
-   }
-   
-   button:hover {
-    filter: brightness(110%);
-   }
-   
-   button:hover .front {
-    transform: translateY(-6px);
-    transition: transform
-       250ms
-       cubic-bezier(.3, .7, .4, 1.5);
-   }
-   
-   button:active .front {
-    transform: translateY(-2px);
-    transition: transform 34ms;
-   }
-   
-   button:hover .shadow {
-    transform: translateY(4px);
-    transition: transform
-       250ms
-       cubic-bezier(.3, .7, .4, 1.5);
-   }
-   
-   button:active .shadow {
-    transform: translateY(1px);
-    transition: transform 34ms;
-   }
-   
-   button:focus:not(:focus-visible) {
-    outline: none;
-   }
+/* Un */
 
-.img{
-    display: none;
-}
-
-img{
-    width: 768px;
-    height: 432px;
-}
-
-video{
-    width: 768px;
-    height: 432px;
-    left: 500px;
-}
-
-.textafficher{
-    font-size: 17px;
-    text-align: center;
+.un{
+    font-family: 'robotoregular'; 
     color: black;
-    font-weight: bold;
-    font-family: 'robotoregular';
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
 }
+
+.imageun{
+    width : 240px;
+    height : 248px;
+    left: 20px;
+    top: 25px;
+    position: absolute;
+    }
+
+
+.und{
+    font-family: 'robotoregular'; 
+    color: black;
+    font-size: 16px;
+}
+
+/* Deux */
+
+/* Trois */
+
+
+/* Quatre */
 
 /* Footer */
 footer {
