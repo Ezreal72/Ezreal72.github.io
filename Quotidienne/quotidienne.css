@@ -224,7 +224,7 @@ section#contact .container form textarea {
 .imageun{
     width: 200px;
     height: 207px;
-    left: -200px;
+    left: -210px;
     border-radius: 15px;
     position: relative;
     }
@@ -232,9 +232,11 @@ section#contact .container form textarea {
 
 
 .und{
-    font-family: 'robotoregular'; 
+    font-family: 'robotoregular';
     color: black;
     font-size: 16px;
+    left: 125px;
+    position: relative;
 }
 
 /* Deux */
