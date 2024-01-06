@@ -254,15 +254,18 @@ section#contact .container form textarea {
 .imagedeux{
     width: 200px;
     height: 207px;
-    left: -200px;
+    left: -370px;
     border-radius: 15px;
     position: relative;
     }
 
 .deuxd{
-    font-family: 'robotoregular'; 
+    font-family: 'robotoregular';
     color: black;
-    font-size: 16px;
+    font-size: 18px;
+    left: 110px;
+    position: relative;
+    top:-185px;
 }
 
 /* Trois */
@@ -276,18 +279,20 @@ section#contact .container form textarea {
 }
 
 .imagetrois{
-    width : 240px;
-    height : 248px;
-    left: 20px;
-    top: 25px;
-    position: absolute;
+    width: 200px;
+    height: 207px;
+    left: -370px;
+    border-radius: 15px;
+    position: relative;
     }
 
-
 .troisd{
-    font-family: 'robotoregular'; 
+    font-family: 'robotoregular';
     color: black;
-    font-size: 16px;
+    font-size: 18px;
+    left: 110px;
+    position: relative;
+    top:-185px;
 }
 
 /* Quatre */
@@ -303,17 +308,19 @@ section#contact .container form textarea {
 .imagequatre{
     width: 200px;
     height: 207px;
-    left: -200px;
+    left: -370px;
     border-radius: 15px;
     position: relative;
     }
 
 
-
 .quatred{
-    font-family: 'robotoregular'; 
+    font-family: 'robotoregular';
     color: black;
-    font-size: 16px;
+    font-size: 18px;
+    left: 110px;
+    position: relative;
+    top:-185px;
 }
 
 /* Footer */
