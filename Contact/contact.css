@@ -268,20 +268,20 @@ section#contact .container form button:hover {
 }
 
 .img1{
-width: 240px;
-height: 180px;
+width: 120px;
+height: 90px;
 position: relative;
 }
 
 .img2{
-    width: 240px;
-    height: 160px;
+    width: 120px;
+    height: 80px;
     position: relative;
 }
 
 .img3{
-    width: 256px;
-    height:165px ;
+    width: 128px;
+    height:83px ;
     position: relative;
 }
 
