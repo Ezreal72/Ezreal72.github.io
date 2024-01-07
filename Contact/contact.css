@@ -268,21 +268,24 @@ section#contact .container form button:hover {
 }
 
 .img1{
-width: 120px;
-height: 90px;
-position: relative;
+    width: 120px;
+    height: 90px;
+    position: relative;
+    left: 270px;
 }
 
 .img2{
     width: 120px;
     height: 80px;
     position: relative;
+    left: 460px;
 }
 
 .img3{
     width: 128px;
     height:83px ;
     position: relative;
+    left: 615px;
 }
 
 /* Footer */
