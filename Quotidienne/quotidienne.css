@@ -254,7 +254,7 @@ section#contact .container form textarea {
 .imagedeux{
     width: 384px;
     height: 216px;
-    left: -370px;
+    left: 453px;
     border-radius: 15px;
     position: relative;
     }
@@ -266,6 +266,7 @@ section#contact .container form textarea {
     left: 110px;
     position: relative;
     top:-185px;
+    text-align: right;
 }
 
 /* Trois */
