@@ -151,7 +151,7 @@ section#contact .container {
 .imageun{
     width: 200px;
     height: 207px;
-    left: -115px;
+    left: -100px;
     border-radius: 15px;
     position: relative;
     }
@@ -181,7 +181,7 @@ section#contact .container {
 .imagedeux{
     width: 320px;
     height: 180px;
-    left: 435px;
+    left: 455px;
     border-radius: 15px;
     position: relative;
     }
@@ -209,7 +209,7 @@ section#contact .container {
 .imagetrois{
     width: 320px;
     height: 180px;
-    left: -125px;
+    left: -130px;
     border-radius: 15px;
     position: relative;
     }
@@ -218,7 +218,7 @@ section#contact .container {
     font-family: 'robotoregular';
     color: black;
     font-size: 18px;
-    left: 220px;
+    left: 205px;
     position: relative;
     top:-165px;
     text-align: left;
@@ -237,7 +237,7 @@ section#contact .container {
 .imagequatre{
     width: 200px;
     height: 207px;
-    left: 670px;
+    left: 645px;
     border-radius: 15px;
     position: relative;
     }
