@@ -262,33 +262,6 @@ caption{
     text-align: center;
 }
 
-Home
-About
-Table UI
-
-
-UI
-
-
-HTML
-
-
-CSS
-*, ::before, ::after {
-    box-sizing: border-box;
-    margin: 0; 
-    padding: 0;
-}
-
-body {
-    height: 100vh;
- padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .table-style  {
     border-collapse: collapse;
