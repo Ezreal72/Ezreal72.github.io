@@ -181,7 +181,7 @@ section#contact .container {
 .imagedeux{
     width: 320px;
     height: 180px;
-    left: 455px;
+    left: 475px;
     border-radius: 15px;
     position: relative;
     }
@@ -190,7 +190,7 @@ section#contact .container {
     font-family: 'robotoregular';
     color: black;
     font-size: 18px;
-    left: -150px;
+    left: -165px;
     position: relative;
     top:-175px;
     text-align: right;
