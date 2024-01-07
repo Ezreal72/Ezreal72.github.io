@@ -252,9 +252,9 @@ section#contact .container form textarea {
 }
 
 .imagedeux{
-    width: 384px;
-    height: 216px;
-    left: 375px;
+    width: 320px;
+    height: 180px;
+    left: 435px;
     border-radius: 15px;
     position: relative;
     }
@@ -263,9 +263,9 @@ section#contact .container form textarea {
     font-family: 'robotoregular';
     color: black;
     font-size: 18px;
-    left: -210px;
+    left: -150px;
     position: relative;
-    top:-185px;
+    top:-175rpx;
     text-align: right;
 }
 
