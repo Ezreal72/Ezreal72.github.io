@@ -94,7 +94,7 @@ p {
     font-size: 1.5rem;
 }
 
-/* Section Contact */
+/* Section Remerciement */
 
 section#contact {
     background: linear-gradient( rgb(0, 0, 0, 0.5),transparent);
@@ -117,6 +117,16 @@ section#contact .container {
     border-radius: 15px;
     box-sizing: border-box;
     box-shadow: rgb(214 214 214) 0px 10px 50px -10px ;
+}
+
+.textdebut{
+    font-size: 25px;
+    left: 10%;
+    top: 5%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: 'robotoregular';
 }
 
 /* Footer */
