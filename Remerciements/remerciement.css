@@ -96,7 +96,7 @@ p {
 
 /* Section Remerciement */
 
-section#contact {
+section#remer {
     background: linear-gradient( rgb(0, 0, 0, 0.5),transparent);
     padding: 100px 15px;
     background-size: cover;
@@ -105,7 +105,7 @@ section#contact {
 }
 
 
-section#contact .container {
+section#remer .container {
     max-width: 900px;
     margin: 0px auto;
     display: flex;
