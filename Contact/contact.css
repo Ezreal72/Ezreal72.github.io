@@ -270,19 +270,19 @@ section#contact .container form button:hover {
 .img1{
 width: 240px;
 height: 180px;
-position: absolute;
+position: relative;
 }
 
 .img2{
     width: 240px;
     height: 160px;
-    position: absolute;
+    position: relative;
 }
 
 .img3{
     width: 256px;
     height:165px ;
-    position: absolute;
+    position: relative;
 }
 
 /* Footer */
