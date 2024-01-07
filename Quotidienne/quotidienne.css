@@ -308,7 +308,7 @@ section#contact .container form textarea {
 .imagequatre{
     width: 200px;
     height: 207px;
-    left: -370px;
+    left: 670px;
     border-radius: 15px;
     position: relative;
     }
@@ -318,9 +318,10 @@ section#contact .container form textarea {
     font-family: 'robotoregular';
     color: black;
     font-size: 18px;
-    left: 110px;
+    left: -140px;
     position: relative;
     top:-185px;
+    text-align: right;
 }
 
 /* Footer */
