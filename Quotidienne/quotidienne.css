@@ -254,28 +254,7 @@ section#contact .container {
 }
 
 /* Tableau */
-#box {position: relative;}
-input[type="radio"],.content {display: none;}
-label {
-    display: inline-block;
-    height: 20px;
-    padding: 5px 10px;
-}
-input[type="radio"]:checked + label {
-    background: rgb(230,230,230);
-}
-input[type="radio"]:checked + label > div {
-    display: block;
-}
-.content {
-    position: absolute;
-    top: 30px;
-    left: 0;
-    width: 200px;
-    height: 100px;
-    padding: 10px;
-    background: rgb(230,230,230);
-}
+
 
 /* Footer */
 
