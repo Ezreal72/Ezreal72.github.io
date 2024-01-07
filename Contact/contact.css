@@ -246,6 +246,26 @@ section#contact .container form button:hover {
     }
 }
 
+/* Site */
+
+.img1{
+width: 240px;
+height: 180px;
+position: absolute;
+}
+
+.img2{
+    width: 240px;
+    height: 160px;
+    position: absolute;
+}
+
+.img3{
+    width: 256px;
+    height:165px ;
+    position: absolute;
+}
+
 /* Footer */
 footer {
     margin: 0;
