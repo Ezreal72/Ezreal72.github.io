@@ -126,7 +126,15 @@ section#contact .container .title {
 section#contact .container .title h4 {
     font-size: 1.6em ;
     margin-bottom: 10px;
-    font-family: 'Arial' ;
+    font-family: 'heavitasregular';
+}
+
+@font-face {
+    font-family: 'heavitasregular';
+    src: url('https://ezreal72.github.io/POTM/Police/heavitas-webfont[1].woff2') format('woff2'),
+         url('https://ezreal72.github.io/POTM/Police/heavitas-webfont[1].woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 section#contact .container .title h3 {
