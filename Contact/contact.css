@@ -272,6 +272,7 @@ section#contact .container form button:hover {
     height: 90px;
     position: relative;
     left: 270px;
+    border-radius: 15px;
 }
 
 .img2{
@@ -279,6 +280,7 @@ section#contact .container form button:hover {
     height: 80px;
     position: relative;
     left: 460px;
+    border-radius: 15px;
 }
 
 .img3{
@@ -286,6 +288,7 @@ section#contact .container form button:hover {
     height:83px ;
     position: relative;
     left: 615px;
+    border-radius: 15px;
 }
 
 /* Footer */
