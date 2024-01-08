@@ -111,13 +111,3 @@ ul li.active a{
     background: #fff;
     color:#000;
 }
-
-/*Carre*/
-
-#carre {
-    height: 30px;
-    width: 30px;
-    background : green;
-    position: relative;
-   /* left: ;*/
-}
